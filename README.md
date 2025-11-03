@@ -99,7 +99,6 @@ python EasyReprt.py
 For any issues regarding Excel or Word report generation:
 
 - 📧 Email: `parsa.asil@outlook.com`  
-- 📞 Phone: `+1 832 840 3008`  
 - ⏰ Working Hours: Mon-Fri, 9:00 AM - 6:00 PM  
 
 ---
